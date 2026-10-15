@@ -2,7 +2,7 @@
 
 BOM-CN, for BOM in Chinese version
 
-BOM-EN, for BOM in English version
+BOM-EN, for BOM in English version (translated by AI)
 
 
 
