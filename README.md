@@ -1,5 +1,5 @@
 # SpaceKat-V3-MiniII
 
-BOM in Chinese version, /BOM-CN/
+BOM in Chinese version, in BOM-CN
 
-BOM in English version, /BOM-EN/
+BOM in English version, in BOM-EN
